@@ -1,0 +1,13 @@
+this is the road map of my hatching project
+
+1. creating the road map file
+
+2. creating the project's folder
+
+3. adding a simple html file
+
+4. adding a folder of pictures
+
+5. adding another html file
+
+6. adding a picture
