@@ -11,3 +11,5 @@ this is the road map of my hatching project
 5. adding another html file
 
 6. adding a picture
+
+it's just that... 
